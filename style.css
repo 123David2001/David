@@ -60,14 +60,14 @@ main {
   border-bottom: 100px solid transparent;
 
   /*  */
-  transition: transform 120s;
+  transition: transform 180s;
   transform-origin: top;
 }
 
 .paper {
   position: absolute;
   padding: 1.33rem;
-  line-height: 0.78rem;
+  line-height: 0.8rem;
   right: 1px;
   /*  */
   z-index: -1;
@@ -75,7 +75,7 @@ main {
   width: 390px;
   height: 220px;
 
-  transition: all 120s;
+  transition: all 180s;
 }
 
 .letter {
@@ -110,7 +110,7 @@ main {
 }
 
 .open-paper {
-  animation: openPaper 120s forwards;
+  animation: openPaper 180s forwards;
 }
 
 @keyframes openPaper {
@@ -123,7 +123,7 @@ main {
 }
 
 .close-paper {
-  animation: closePaper 120s forwards;
+  animation: closePaper 180s forwards;
 }
 
 @keyframes closePaper {
@@ -146,7 +146,7 @@ main {
 
   color: #3f7786;
 
-  animation: crecer 120s forwards ;
+  animation: crecer 180s forwards ;
 }
 
 @keyframes crecer {
