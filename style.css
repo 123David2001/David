@@ -79,8 +79,8 @@ main {
   /*  */
   z-index: -1;
   background: white;
-  width: 390px;
-  height: 180px;
+  width: 370px;
+  height: 190px;
 
   transition: all 55s;
 }
