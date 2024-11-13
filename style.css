@@ -67,12 +67,12 @@ main {
 .paper {
   position: absolute;
   padding: 1.3rem;
-  line-height: 0.75rem;
+  line-height: 0.78rem;
   right: 1px;
   /*  */
   z-index: -1;
   background: white;
-  width: 370px;
+  width: 390px;
   height: 220px;
 
   transition: all 120s;
@@ -82,7 +82,7 @@ main {
   border-left: 200px solid #478fe7;
   border-right: 200px solid #478fe7;
   border-top: 100px solid transparent;
-  border-bottom: 100px solid #478fe7;
+  border-bottom: 220px solid #478fe7;
 }
 
 .options {
